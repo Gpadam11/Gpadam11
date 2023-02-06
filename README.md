@@ -53,6 +53,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Gpadam11&theme=highcontrast&show_icons=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gpadam11)
+![Geetika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gpadam11&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gpadam11&langs_count=8)](https://github.com/Gpadam11/github-readme-stats)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Gpadam11&layout=compact)
     
 ---
