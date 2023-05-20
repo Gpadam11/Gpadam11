@@ -76,4 +76,11 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" **alt="C" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="VSCode" **alt="Linux" width="60" height="60"/>
+ <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="MySql" **alt="VSCode" width="60" height="60"/>
+ <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" title="Oracle" **alt="VSCode" width="60" height="60"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="VSCode" **alt="Cplusplus" width="60" height="60"/>
+  
+
+  
 </div>
